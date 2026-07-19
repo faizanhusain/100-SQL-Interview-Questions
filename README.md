@@ -53,6 +53,26 @@ SQL-Interview-Questions/
 - RFM Analysis
 - Dashboard Reporting
 
+
+# 👨‍💻 Author
+
 **Faizan Hussain**
+
+- GitHub: https://github.com/faizanhusain
+- LinkedIn: https://linkedin.com/in/faizan-hussain-b575561b2
+
+- ---
+
+# ⭐ Support
+
+If you found this repository useful, consider giving it a ⭐.
+
+It helps others discover the project and motivates future improvements.
+
+---
+
+# 📄 License
+
+This project is licensed under the MIT License.
 
 GitHub: https://github.com/faizanhusain
