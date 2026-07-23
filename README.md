@@ -61,6 +61,9 @@ The table below shows the top 10 customers ranked using **Recency, Frequency, an
 <img width="1012" height="416" alt="Image" src="https://github.com/user-attachments/assets/9a1435e1-39e3-46d6-98c0-4c9e8f1c3f0f" />
 </p>
 
+## Sales Dashboard
+<img width="1280" height="4974" alt="Image" src="https://github.com/user-attachments/assets/db088cc5-dcba-4865-ab5e-861e9400eb46" />
+
 # 👨‍💻 Author
 
 **Faizan Hussain**
