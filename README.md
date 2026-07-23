@@ -53,6 +53,13 @@ SQL-Interview-Questions/
 - RFM Analysis
 - Dashboard Reporting
 
+## 🏆 Top 10 Customers Based on RFM Analysis
+
+The table below shows the top 10 customers ranked using **Recency, Frequency, and Monetary (RFM)** analysis. RFM is a customer segmentation technique used to identify high-value customers based on how recently they purchased, how frequently they purchase, and how much they spend.
+
+<p align="center">
+<img width="1012" height="416" alt="Image" src="https://github.com/user-attachments/assets/9a1435e1-39e3-46d6-98c0-4c9e8f1c3f0f" />
+</p>
 
 # 👨‍💻 Author
 
